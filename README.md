@@ -1,20 +1,32 @@
 # 免费脚本分享&空投 新手小文档
 
-其实都很简单，上手一两次基本上就会了
-有任何问题进群组交流
 
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&logoColor=white)](https://t.me/Scripter6)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red?logo=telegram&logoColor=white)](https://t.me/Scripter6)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-red?logo=telegram&logoColor=white)](https://t.me/HamsterKey6)
 
+- **文档链接：** [Script Tech](https://saulgoodmanc99.github.io/Script_tech/)
 
+## 入门指南
 
-## Python 3.10.0 下载与安装指南
+其实，使用免费脚本和参与空投都很简单。上手一两次基本上就会了。下面是一些基本的操作步骤和建议：
 
-## 📥 下载 Python 3.10.0
+### 免费脚本分享
 
-1. 访问 [Python 官方下载页面](https://www.python.org/downloads/release/python-3100/)。
-2. 根据你的操作系统选择适当的安装包：
-   - **Windows**: 下载 Windows x86-64 可执行安装程序（`python-3.10.0-amd64.exe`）。
+1. **获取脚本：** 你可以在相关的 Telegram 频道和群组中找到各种免费的脚本。请确保从可信的来源下载脚本，以避免安全风险。
+2. **配置脚本：** 根据脚本的要求，可能需要进行一些基本的配置，例如填入 API 密钥或设置运行参数。通常，脚本会附带简单的配置说明。
+3. **运行脚本：** 配置完成后，可以按照说明运行脚本。一般来说，脚本会提供使用方法或命令行参数来启动。
 
-## 之后的慢慢写吧 
+### 空投参与
 
+1. **关注公告：** 参与空投通常需要关注相关的 Telegram 频道或群组，获取最新的空投信息和参与方法。
+2. **注册并完成任务：** 空投项目可能要求你完成一些任务，如关注社交媒体账户、分享内容或填写表单。按照说明完成这些任务以获得空投奖励。
+3. **领取奖励：** 完成任务后，项目方会按照规则发放空投奖励，通常会通过钱包地址或其他方式进行分发。
+
+### 常见问题
+
+- **如何找到可靠的脚本和空投？**
+  - 通过加入专门的 Telegram 频道和群组，你可以获得最新的信息和资源。务必核实信息来源，以确保安全性。
+
+- **遇到问题怎么办？**
+  - 如果在使用脚本或参与空投过程中遇到任何问题，请随时进群组交流。社区成员通常会提供帮助和建议。
 

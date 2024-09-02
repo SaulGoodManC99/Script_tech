@@ -1,3 +1,6 @@
 * [前言](/)
+* [安装Python](Go/Python3.10)
+* [Telegram api注册](Go/TGapi)
 * [安装git](Go/Git)
-* [memefi机器人](Go/Memefi)
+* [MemeFi机器人](Go/Memefi)
+* [Xempire机器人](Go/Xempire)

@@ -4,3 +4,4 @@
 * [安装git](Go/Git)
 * [MemeFi机器人](Go/Memefi)
 * [Xempire机器人](Go/Xempire)
+* [DuckChain机器人](Go/DuckChain)

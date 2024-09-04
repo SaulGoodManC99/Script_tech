@@ -1,5 +1,8 @@
 # Telegram API 注册教程
 
+## API注册视频教程
+[视频链接](https://www.youtube.com/watch?v=TWreKchDMWc&t=3s)
+
 ## 步骤 1：访问 Telegram 开发者平台
 
 1. 打开浏览器，访问 [Telegram 开发者平台](https://my.telegram.org)。

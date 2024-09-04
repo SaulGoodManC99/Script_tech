@@ -5,7 +5,8 @@
 1. 找到自己要下载的目录，然后用git命令随时克隆仓库
 2. 随时更新，不然下载文件的话，人家更新了还得重新删除原来的文件然后重新下载
 
-
+## Git安装视频教程
+[视频链接](https://www.youtube.com/watch?v=TWreKchDMWc&t=3s)
 ## 下载 Git for Windows
 
 1. 打开 [Git for Windows 发布页面](https://github.com/git-for-windows/git/releases)。
@@ -13,6 +14,7 @@
 `
 
 ## 安装 Git for Windows 配置环境变量
+
 
 1. 右键解压这个压缩包
 2. 然后打开控制面板 -> 系统和安全 -> 系统 -> 高级系统设置 -> 环境变量 

@@ -1,6 +1,6 @@
 # TimeFarm脚本运行教程
 
-[TimeFarm空投链接](https://t.me/TimeFarmCryptoBot?start=Lj81LtA84TFprV5q)
+[TimeFarm空投链接🔥🔥](https://t.me/TimeFarmCryptoBot?start=Lj81LtA84TFprV5q)
 
 ## [设置](https://github.com/SudoLite/TimeFarmBot/blob/main/.env-example)
 | 设置                      | 描述                                                                         |

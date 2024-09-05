@@ -6,3 +6,4 @@
 * [Xempire机器人](Go/Xempire)
 * [DuckChain机器人](Go/DuckChain)
 * [Hamster机器人](Go/HamsterKombat)
+* [TimeFarm机器人](Go/TimeFarm)

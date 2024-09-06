@@ -7,3 +7,4 @@
 * [DuckChain机器人](Go/DuckChain)
 * [Hamster机器人](Go/HamsterKombat)
 * [TimeFarm机器人](Go/TimeFarm)
+* [YesCoin机器人](Go/YesCoin)

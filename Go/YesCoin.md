@@ -55,10 +55,4 @@ RANDOM_TAPS_COUNT=50,200
 SLEEP_BETWEEN_TAP=10,25
 USE_PROXY_FROM_FILE=False
 ```
-## 不小心把脚本关了怎么办？？
 
-```bash
-在脚本目录打开cmd
-venv\Scripts\activate  进入虚拟环境
-python main.py
-```

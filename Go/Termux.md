@@ -14,8 +14,7 @@
 ### 使用它tmoe安装proot环境Ubuntu
 
 ```bash
-apt install -y curl
-bash -c "(curl -LfsS 'https://gitee.com/mo2/linux/raw/master/debian.sh')"
+. <(curl -L gitee.com/mo2/linux/raw/2/2)
 ```
 **详情请看Youtube视频教程**
 ### 安装python3

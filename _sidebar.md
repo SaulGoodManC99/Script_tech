@@ -2,6 +2,7 @@
 * [安装Python](Go/Python3.10)
 * [Telegram api注册](Go/TGapi)
 * [安装git](Go/Git)
+* [手机运行脚本](Go/Termux)
 * [常见问题](Go/shutdown)
 * [MemeFi机器人](Go/Memefi)
 * [Xempire机器人](Go/Xempire)

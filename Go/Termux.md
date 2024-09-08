@@ -60,7 +60,7 @@ eval "$(pyenv virtualenv-init -)"
 然后，运行以下命令以使更改生效：
 
 ```bash
-source ~/.zshrc
+source ~/.bashrc
 ```
 ### 使用pyenv安装指定版本的python
 现在，你可以使用 `pyenv` 安装 Python 3.10：

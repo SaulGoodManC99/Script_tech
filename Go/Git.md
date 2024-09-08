@@ -1,19 +1,19 @@
 # Git for Windows 安装教程
 
-## 为什么要安装git?
+### 为什么要安装git?
 
 1. 找到自己要下载的目录，然后用git命令随时克隆仓库
 2. 随时更新，不然下载文件的话，人家更新了还得重新删除原来的文件然后重新下载
 
-## Git安装视频教程
+### Git安装视频教程
 [视频链接](https://www.youtube.com/watch?v=TWreKchDMWc&t=3s)
-## 下载 Git for Windows
+### 下载 Git for Windows
 
 1. 打开 [Git for Windows 发布页面](https://github.com/git-for-windows/git/releases)。
 2. 在版本发布页面中，找到“Assets”部分，下载 `MinGit-2.46.0-64-bit.zip
 `
 
-## 安装 Git for Windows 配置环境变量
+### 安装 Git for Windows 配置环境变量
 
 
 1. 右键解压这个压缩包
@@ -23,7 +23,7 @@
 5. 然后点确定，就成功了
 
 
-## 验证安装
+### 验证安装
 
 1. 打开命令提示符（CMD）或 PowerShell。
 2. 输入以下命令以检查 Git 是否安装成功：

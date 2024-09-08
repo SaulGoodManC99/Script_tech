@@ -2,14 +2,14 @@
 
 [Yescoin空投链接](https://t.me/theYescoin_bot/Yescoin?startapp=YDNl0h)
 
-## 第一步克隆仓库（下载脚本）
+### 第一步克隆仓库（下载脚本）
 ```bash
 git clone https://github.com/shamhi/YesCoinBot.git 
 
 cd YesCoinBot
 ```
 
-## 第二步创建虚拟环境，安装依赖，运行脚本
+### 第二步创建虚拟环境，安装依赖，运行脚本
 ```bash
 # Windows
 python -m venv venv
@@ -23,7 +23,7 @@ python main.py
 视频会演示
 
 
-## .env配置
+### .env配置
 我这边关掉了自动升级，你们自己看一下配置
 ```bash
 AUTO_UPGRADE_TAP=False 点击升级，已关闭，要打开改为True

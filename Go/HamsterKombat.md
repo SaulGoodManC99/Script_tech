@@ -1,6 +1,6 @@
 # HamsterKombatBot脚本运行教程
 
-## 下载安装命令
+### 下载安装命令
 您可以通过克隆[**仓库**](https://github.com/shamhi/HamsterKombatBot)到您的系统并安装所需的依赖项来下载：
 ```shell
 git clone https://github.com/shamhi/HamsterKombatBot.git 
@@ -26,10 +26,10 @@ python main.py
 ```
 
 
-## .env配置文件说明看老外主页
+### .env配置文件说明看老外主页
 [跳转](https://github.com/shamhi/HamsterKombatBot)
 
-## .env文件配置
+### .env文件配置
 [api注册教程视频链接](https://www.youtube.com/watch?v=TWreKchDMWc&t=3s)
 ```
 APPLY_COMBO=False

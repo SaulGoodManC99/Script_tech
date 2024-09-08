@@ -2,7 +2,7 @@
 
 欢迎使用 **MemeFiBot**！本教程将引导你完成在Linux和Windows系统上安装和运行 **MemeFiBot** 的步骤。
 
-## 克隆代码库
+### 克隆代码库
 
 找到自己想要下载的目录，用git命令克隆仓库
 
@@ -17,7 +17,7 @@ cd MemeFiBot 进入克隆的仓库目录
 欢迎使用 **MemeFiBot**！以下是安装和运行 **MemeFiBot** 的步骤，分别适用于Linux和Windows系统。
 
 
-## 先说配置文件 .env吧  
+### 先说配置文件 .env吧  
 
 1. 一定要关闭windows文件管理器`隐藏已知文件类型的扩展名`
 2. 不然看不到文件扩展名
@@ -50,7 +50,7 @@ EMERGENCY_STOP=True
 
 USE_PROXY_FROM_FILE=False
 ```
-## Windows 系统
+### Windows 系统
 
 1. 创建虚拟环境：
 
@@ -98,7 +98,7 @@ USE_PROXY_FROM_FILE=False
     +855******
 
     ```
-## Linux 系统
+### Linux 系统
 
 1. 创建虚拟环境：
 
@@ -138,7 +138,7 @@ USE_PROXY_FROM_FILE=False
 
 
 
-## 注意事项
+### 注意事项
 
 - 确保在 `.env` 文件中正确填写 `API_ID` 和 `API_HASH`。这些信息可以从 [Telegram API](https://my.telegram.org/) 获取，或者从频道获取。
 
